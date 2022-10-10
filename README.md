@@ -1,1 +1,1 @@
-# github-issue-hub
+# Github Issue Hub
